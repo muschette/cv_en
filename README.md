@@ -104,4 +104,3 @@ Databases (Microsoft SQL, MySQL, T-SQL, MongoDB
 
 Server & Architecture: TCP/IP Networks, Switching, Microsoft Server, POWER BI, Linux, Desktop Windows, Apple Mac, Microsoft Office Suite/Visio, Software Systems Implantations, AWS, AZURE(learning), Android, iOS
 
-![image](https://user-images.githubusercontent.com/86296639/122916351-13a60a00-d35d-11eb-9e5c-e9a62dbe96b5.png)

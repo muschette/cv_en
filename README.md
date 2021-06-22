@@ -25,8 +25,11 @@ Core Qualifications
 	Experience working in enterprise-level, formalised architectural frameworks, practices and methodologies spanning enterprise-scale projects
 
 Professional Experience
+
 Founder / Chief Solutions Architect 	12/2005 to 01/2021
+
 Rudare Communications, SL	Madrid, Spain
+
 Establish individual performance goals, review performance against goals and provide coaching for associate development.
 Designed, planned, oversaw, delivered and participated in team coordination of interfaces and data migration on different implementation projects.
 Choose the right technology stack for the purpose for backend application services and the frontend layers when implementing systems for clients.
@@ -39,6 +42,7 @@ Developed commercial cloud based mobile application whose core is SQL that runs 
 Designed SQL based SMS platform for commercial and private use in conjunction with Ericsson and Vodafone España.
 
 Director of Technologies	1999 - 2004
+
 Internet Protocols Limited (IPL)	London, England
 
 Built and managed development of an Internet Network Data Centre using SQL to manage all data collection and reporting to provide ISDN and dial-up access, corporate access, business-to-business communication, and database access.
@@ -49,6 +53,7 @@ Developed T-SQL views to ensure that core customer data held in disparate busine
 Assisted in the negotiation of strategic bandwidth agreements with two major international telecommunications providers, Global One and Global Crossing, to provide our clients with two STM-1´s for trans-Atlantic connections.  Within 11 months of the beginning of these negotiations, these efforts resulted in the market valuation and sale of IPL to TelTran International Group, Ltd., a U.S. telecommunications company, for $11.6 million.
 
 Principal Systems Architect	1997 - 1999
+
 Performance Films of Spain	Malaga, Spain
 
 Built a state-of-the-art interactive live and on-demand video network/system for the decimation of live and stored video content worldwide with SQL to decimate video content using Microsoft (Vxtreme y NetShow),  RealNetworks (RealMedia / RealPlayer).
@@ -56,12 +61,14 @@ Built a state-of-the-art interactive live and on-demand video network/system for
 Technology was used but news agencies to enhance news information, marketing, sales distribution and education.
 
 Graphical User Interface Database Consultant 	1994 - 1997
+
 NEC America	Dallas, TX
 
 Worked with the design team to design and implement interactive graphical user interfaces for NEC’s database network management system running on SUN computers for the company’s domestic and international clients.  Designed graphical replicas of complete environments and associated equipment to controlled actual hardware equipment via the graphical user interface and SQL database. 
 Responsible for the troubleshooting and testing of TCP/IP and ATM networks using UNIX, Windows NT, and Sun Solaris servers.  Assisted field technicians by researching and providing solutions on problem issues.
 
 Project Manager/Lead Engineer 	1991 - 1994
+
 ETA Technologies Corporation	Los Angeles, CA, USA
 
 Successfully arbitrated a failing project and restored the client’s (The City of Los Angeles) trust in the company’s automation division.  Managed senior technical and programming staff.  Successfully implemented the “CENDEX” system running in Microsoft Windows, SQL and Crystal Report Writer.
@@ -69,12 +76,14 @@ Designed and implemented multiple LAN connectivity projects to a broad band netw
 
 
 Founder / VP of Operations	1989 - 1991
+
 Advanced Information Network System, Inc.	Rockville, Maryland USA
 
 Principal systems architect for a leading regional systems integration company specializing in information technology consulting.  Advised on systems rightsizing issues and provided business connectivity solutions for large organizations.  
 Developed the sales and marketing strategy, created the corporate brand and won preferred systems integrator status with companies such as Oracle, Novell and Microsoft. Designed and implemented complex distributed systems solutions involving systems integration of software tools and database for clients.  Sold IT consulting, integration services, object oriented software development, technology, data warehousing and customer relationship management to federal government and private corporations.
 
 Systems Consultant	1987 - 1989
+
 World Bank	Zimbabwe, Africa
 
 Designed and developed the Petroleum Stock Management System (PSMS), utilizing SQL for all core data collection and reporting under ESMAP Division for the country of Zimbabwe, Africa.  Designed and implemented a Banyan VINES network.  PSMS is an innovative stock management system that allowed Zimbabwe to effectively manage usage and the delivery schedule of all its petroleum products.

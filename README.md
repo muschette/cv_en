@@ -13,10 +13,15 @@ Extensive international experience and effective analytical and problem-solving 
 Core Qualifications
 
 	Track record of driving decisions collaboratively, resolving conflicts and ensuring follow through with extraordinary verbal and written communication.
+
 	Ability to choose the right technology stack for the purpose for backend application services and the frontend layers
+
 	Entrepreneurial thinking and a hand-on developer, programmer and problem solver
+
 	Excellent when facilitating customer design and awareness sessions that are focused on complex application solution architectures.
+
 	Solid experience in highly dynamic and high-growth environments
+
 	Experience working in enterprise-level, formalised architectural frameworks, practices and methodologies spanning enterprise-scale projects
 
 Professional Experience

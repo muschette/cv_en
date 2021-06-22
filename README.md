@@ -1,6 +1,7 @@
 James Muschette, III	
 	
 email: muschette@protonmail.com
+
 title: CTO / Software Architect
 
 An IT professional with expertise in diverse range of technologies within multiple industry settings.  30+ years of demonstrated success in designing system & software, Data Analysis, formulating Strategy, visualizing Concepts, and implementing SQL database from Design to production.  Bi-lingual with native English and Spanish.
